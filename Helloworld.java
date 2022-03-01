@@ -11,5 +11,6 @@ String c="hello";
 int b=3;  
 System.out.println("a="+a);  
 int d=15;
+String s1="java";
 }
 }
