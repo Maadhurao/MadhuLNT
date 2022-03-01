@@ -6,6 +6,7 @@ int y=20;
 int z=i+y;
 System.out.println("result"+z);
 int a=2;
+int b=3;  
 System.out.println("a="+a);  
 }
 }
