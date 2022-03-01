@@ -8,5 +8,7 @@ System.out.println("result"+z);
 int a=2;
 System.out.println("a="+a); 
 String c="hello"; 
+int b=3;  
+System.out.println("a="+a);  
 }
 }
