@@ -5,5 +5,6 @@ int i=10;
 int y=20;
 int z=i+y;
 System.out.println("result"+z);
+int a=2;
 }
 }
