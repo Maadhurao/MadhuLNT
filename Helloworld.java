@@ -4,5 +4,6 @@ System.out.println("hello world from MaD");
 int i=10;
 int y=20;
 int z=i+y;
+System.out.println("result"+z);
 }
 }
